@@ -1,0 +1,18 @@
+{
+  "track": "en_es",
+  "n_users": 2530,
+  "n_tokens": 2594768,
+  "share_pos_fallback": 0.0017284782300382925,
+  "difficulty_mean": 0.12689237998843095,
+  "error_mean": 0.12711849383066232,
+  "tag": "sesmatch",
+  "window": 20,
+  "k": 2,
+  "history": "none",
+  "sesmatch": true,
+  "n_events": 38215,
+  "n_learners": 2481,
+  "seed": 20260923,
+  "boot": 2000,
+  "seconds": 40
+}
