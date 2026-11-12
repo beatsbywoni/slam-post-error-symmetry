@@ -1,0 +1,7 @@
+track,run,rows_archived,rows_rerun,rows_compared,max_abs_diff_pp,did,lo,hi,n_events
+en_es,current,64,64,64,0.0,0.4345,0.2426,0.6225,52309
+en_es,frozen,64,64,64,0.0,0.4345,0.2426,0.6225,52309
+es_en,current,64,64,64,0.0,0.0839,-0.1132,0.2774,44886
+es_en,frozen,64,64,64,0.0,0.0839,-0.1132,0.2774,44886
+fr_en,current,64,64,64,0.0,-0.2494,-0.5668,0.051,27510
+fr_en,frozen,64,64,64,0.0,-0.2494,-0.5668,0.051,27510

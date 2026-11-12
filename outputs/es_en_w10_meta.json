@@ -1,0 +1,17 @@
+{
+  "track": "es_en",
+  "n_users": 2497,
+  "n_tokens": 1930107,
+  "share_pos_fallback": 0.0036075720154374862,
+  "difficulty_mean": 0.14229687107363048,
+  "error_mean": 0.14262525341859286,
+  "tag": "w10",
+  "window": 10,
+  "k": 2,
+  "history": "none",
+  "n_events": 46018,
+  "n_learners": 2479,
+  "seed": 20260923,
+  "boot": 2000,
+  "seconds": 34
+}

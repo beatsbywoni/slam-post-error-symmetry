@@ -1,0 +1,128 @@
+                                   tag                quantity  n_events                      est
+0                            x_primary                  pre_ex     27510        1.04 [0.80, 1.29]
+1                            x_primary                 post_ex     27510        0.79 [0.54, 1.04]
+2                            x_primary                     did     27510      -0.25 [-0.57, 0.05]
+3                            x_primary                 x_m1_ex     27510        4.04 [3.41, 4.67]
+4                            x_primary                 x_p1_ex     27510        4.10 [3.47, 4.75]
+5                            x_primary              x_did_lag1     27510       0.06 [-0.68, 0.82]
+6                            x_primary               x_pre3_ex     27510        2.75 [2.37, 3.12]
+7                            x_primary              x_post3_ex     27510        2.77 [2.41, 3.13]
+8                            x_primary           x_did_lag1to3     27510       0.03 [-0.38, 0.46]
+9                            x_primary        x_ev_p1_minus_m1     27510       0.12 [-0.35, 0.60]
+10                           x_primary      same_session_share     27510     26.34 [25.40, 27.26]
+11                           x_primary  abs_distance_exercises     27510     53.85 [51.75, 56.17]
+12                          x_sesmatch                  pre_ex     19375       0.22 [-0.07, 0.53]
+13                          x_sesmatch                 post_ex     19375       0.10 [-0.22, 0.42]
+14                          x_sesmatch                     did     19375      -0.12 [-0.53, 0.28]
+15                          x_sesmatch                 x_m1_ex     19375        2.94 [2.01, 3.84]
+16                          x_sesmatch                 x_p1_ex     19375        2.90 [2.00, 3.81]
+17                          x_sesmatch              x_did_lag1     19375      -0.04 [-1.14, 1.04]
+18                          x_sesmatch               x_pre3_ex     19375        2.01 [1.51, 2.52]
+19                          x_sesmatch              x_post3_ex     19375        1.77 [1.28, 2.27]
+20                          x_sesmatch           x_did_lag1to3     19375      -0.24 [-0.86, 0.36]
+21                          x_sesmatch        x_ev_p1_minus_m1     19375       0.01 [-0.78, 0.70]
+22                          x_sesmatch      same_session_share     19375     36.49 [35.18, 37.82]
+23                          x_sesmatch  abs_distance_exercises     19375     46.70 [44.71, 48.98]
+24             x_errorfree_comparisons                  pre_ex     24180        1.26 [1.00, 1.54]
+25             x_errorfree_comparisons                 post_ex     24180        0.94 [0.68, 1.25]
+26             x_errorfree_comparisons                     did     24180      -0.32 [-0.64, 0.02]
+27             x_errorfree_comparisons                 x_m1_ex     24180        4.39 [3.68, 5.11]
+28             x_errorfree_comparisons                 x_p1_ex     24180        4.75 [4.00, 5.52]
+29             x_errorfree_comparisons              x_did_lag1     24180       0.36 [-0.49, 1.20]
+30             x_errorfree_comparisons               x_pre3_ex     24180        3.11 [2.67, 3.55]
+31             x_errorfree_comparisons              x_post3_ex     24180        3.14 [2.73, 3.56]
+32             x_errorfree_comparisons           x_did_lag1to3     24180       0.03 [-0.46, 0.54]
+33             x_errorfree_comparisons        x_ev_p1_minus_m1     24180       0.24 [-0.31, 0.80]
+34             x_errorfree_comparisons      same_session_share     24180     25.28 [24.33, 26.25]
+35             x_errorfree_comparisons  abs_distance_exercises     24180     55.35 [53.22, 57.77]
+36                          key_sesbin                  pre_ex     19375       0.22 [-0.07, 0.53]
+37                          key_sesbin                 post_ex     19375       0.10 [-0.22, 0.42]
+38                          key_sesbin                     did     19375      -0.12 [-0.53, 0.28]
+39                          key_sesbin      same_session_share     19375     36.49 [35.18, 37.82]
+40                          key_sesbin  abs_distance_exercises     19375     46.70 [44.71, 48.98]
+41   key_sesbin_baseline_same_clusters                  pre_ex     19375        0.97 [0.67, 1.27]
+42   key_sesbin_baseline_same_clusters                 post_ex     19375        0.86 [0.57, 1.15]
+43   key_sesbin_baseline_same_clusters                     did     19375      -0.10 [-0.45, 0.25]
+44   key_sesbin_baseline_same_clusters      same_session_share     19375     28.33 [27.27, 29.40]
+45   key_sesbin_baseline_same_clusters  abs_distance_exercises     19375     53.92 [51.77, 56.26]
+46                         key_sestype                  pre_ex     25232        0.64 [0.38, 0.90]
+47                         key_sestype                 post_ex     25232        0.45 [0.19, 0.72]
+48                         key_sestype                     did     25232      -0.18 [-0.52, 0.16]
+49                         key_sestype      same_session_share     25232     30.77 [29.77, 31.77]
+50                         key_sestype  abs_distance_exercises     25232     49.73 [47.80, 51.87]
+51  key_sestype_baseline_same_clusters                  pre_ex     25232        0.90 [0.65, 1.16]
+52  key_sestype_baseline_same_clusters                 post_ex     25232        0.69 [0.43, 0.95]
+53  key_sestype_baseline_same_clusters                     did     25232      -0.21 [-0.53, 0.11]
+54  key_sestype_baseline_same_clusters      same_session_share     25232     27.58 [26.57, 28.59]
+55  key_sestype_baseline_same_clusters  abs_distance_exercises     25232     53.21 [51.09, 55.55]
+56                          key_client                  pre_ex     27123        1.00 [0.76, 1.25]
+57                          key_client                 post_ex     27123        0.73 [0.48, 0.98]
+58                          key_client                     did     27123      -0.27 [-0.58, 0.03]
+59                          key_client      same_session_share     27123     27.43 [26.51, 28.37]
+60                          key_client  abs_distance_exercises     27123     52.68 [50.60, 54.94]
+61   key_client_baseline_same_clusters                  pre_ex     27123        1.02 [0.78, 1.27]
+62   key_client_baseline_same_clusters                 post_ex     27123        0.77 [0.52, 1.02]
+63   key_client_baseline_same_clusters                     did     27123      -0.25 [-0.57, 0.06]
+64   key_client_baseline_same_clusters      same_session_share     27123     26.72 [25.76, 27.64]
+65   key_client_baseline_same_clusters  abs_distance_exercises     27123     53.59 [51.49, 55.89]
+66                          key_seslen                  pre_ex     22671       0.11 [-0.17, 0.38]
+67                          key_seslen                 post_ex     22671      -0.00 [-0.27, 0.28]
+68                          key_seslen                     did     22671      -0.11 [-0.50, 0.26]
+69                          key_seslen      same_session_share     22671     51.96 [50.66, 53.19]
+70                          key_seslen  abs_distance_exercises     22671     41.00 [38.97, 43.25]
+71   key_seslen_baseline_same_clusters                  pre_ex     22671        0.85 [0.59, 1.11]
+72   key_seslen_baseline_same_clusters                 post_ex     22671        0.76 [0.49, 1.04]
+73   key_seslen_baseline_same_clusters                     did     22671      -0.09 [-0.45, 0.25]
+74   key_seslen_baseline_same_clusters      same_session_share     22671     32.70 [31.66, 33.70]
+75   key_seslen_baseline_same_clusters  abs_distance_exercises     22671     51.85 [49.70, 54.19]
+76                             key_ses                  pre_ex     15721     -1.54 [-1.84, -1.23]
+77                             key_ses                 post_ex     15721     -1.32 [-1.62, -1.00]
+78                             key_ses                     did     15721       0.21 [-0.24, 0.71]
+79                             key_ses      same_session_share     15721  100.00 [100.00, 100.00]
+80                             key_ses  abs_distance_exercises     15721     11.01 [10.63, 11.41]
+81      key_ses_baseline_same_clusters                  pre_ex     15721        0.48 [0.20, 0.77]
+82      key_ses_baseline_same_clusters                 post_ex     15721        0.46 [0.15, 0.78]
+83      key_ses_baseline_same_clusters                     did     15721      -0.02 [-0.42, 0.39]
+84      key_ses_baseline_same_clusters      same_session_share     15721     42.89 [41.83, 43.98]
+85      key_ses_baseline_same_clusters  abs_distance_exercises     15721     47.21 [45.17, 49.28]
+{
+ "track": "fr_en",
+ "share_next_exercise_same_tick": 0.7876772082878953,
+ "share_next_within_1_tick": 0.7942929843693203,
+ "share_next_within_30min": 0.9459105779716467,
+ "tick_seconds": 86.4,
+ "seed_variation": {
+  "pre_ex": {
+   "mean": 1.0807813194278957,
+   "min": 1.0336914922092628,
+   "max": 1.114579783507579
+  },
+  "post_ex": {
+   "mean": 0.7514663282601326,
+   "min": 0.6909050499797907,
+   "max": 0.8273088368229595
+  },
+  "did": {
+   "mean": -0.32931499116776325,
+   "min": -0.3803422655934009,
+   "max": -0.22793598460897507
+  }
+ },
+ "placebo_common_clusters": {
+  "pre_ex": {
+   "mean": 1.2755375433211522,
+   "min": 1.1128309950461424,
+   "max": 1.4983164647800793
+  },
+  "post_ex": {
+   "mean": 1.1672590164418,
+   "min": 0.8766739564651495,
+   "max": 1.3875475234338779
+  },
+  "did": {
+   "mean": -0.10827852687935242,
+   "min": -0.4139028314012856,
+   "max": 0.12800963380910665
+  }
+ }
+}

@@ -1,0 +1,10 @@
+   track               tag analysis                    quantity  n_learners  n_events  mean_pp  lo_pp  hi_pp
+0  fr_en       dose_within  posthoc    did_4plus_minus_2_within         618       NaN     1.02  -0.50   2.56
+1  fr_en       dose_within  posthoc                did_2_common         618       NaN    -0.14  -0.62   0.34
+2  fr_en       dose_within  posthoc            did_4plus_common         618       NaN     0.87  -0.52   2.33
+3  fr_en       dose_within  posthoc  did_a_4plus_minus_2_within         618       NaN     1.32  -0.05   2.68
+4  fr_en  rt_complete_case  posthoc                rt_pre_ex_cc        1146   27510.0    -2.00  -2.86  -1.18
+5  fr_en  rt_complete_case  posthoc               rt_post_ex_cc        1146   27510.0    -0.87  -1.80   0.04
+6  fr_en  rt_complete_case  posthoc                   rt_did_cc        1146   27510.0     1.13  -0.03   2.35
+{'n_learners_dose2': 1158, 'n_learners_dose3': 930, 'n_learners_dose4plus': 620, 'n_learners_both_2_and_4plus': 618, 'n_clusters_dose2': 20493, 'n_clusters_dose3': 4710, 'n_clusters_dose4plus': 2307}
+{'raw_learner_records': 1213, 'raw_tokens': 926646, 'retained_learner_records': 1160, 'retained_tokens': 916000, 'clusters_total': 34750, 'clusters_without_complete_windows': 1306, 'clusters_with_complete_windows': 33444, 'clusters_without_matched_comparison': 5934, 'clusters_matched': 27510, 'learners_contributing': 1160}

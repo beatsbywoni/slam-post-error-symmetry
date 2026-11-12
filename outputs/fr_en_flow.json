@@ -1,0 +1,24 @@
+{
+  "track": "fr_en",
+  "dose": {
+    "n_learners_dose2": 1158,
+    "n_learners_dose3": 930,
+    "n_learners_dose4plus": 620,
+    "n_learners_both_2_and_4plus": 618,
+    "n_clusters_dose2": 20493,
+    "n_clusters_dose3": 4710,
+    "n_clusters_dose4plus": 2307
+  },
+  "flow": {
+    "raw_learner_records": 1213,
+    "raw_tokens": 926646,
+    "retained_learner_records": 1160,
+    "retained_tokens": 916000,
+    "clusters_total": 34750,
+    "clusters_without_complete_windows": 1306,
+    "clusters_with_complete_windows": 33444,
+    "clusters_without_matched_comparison": 5934,
+    "clusters_matched": 27510,
+    "learners_contributing": 1160
+  }
+}

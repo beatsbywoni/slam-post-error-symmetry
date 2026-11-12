@@ -1,0 +1,17 @@
+{
+  "track": "es_en",
+  "n_users": 2497,
+  "n_tokens": 1930107,
+  "share_pos_fallback": 0.0036075720154374862,
+  "difficulty_mean": 0.14229687107363048,
+  "error_mean": 0.14262525341859286,
+  "tag": "symmetric",
+  "window": 20,
+  "k": 2,
+  "history": "symmetric",
+  "n_events": 17684,
+  "n_learners": 2432,
+  "seed": 20260923,
+  "boot": 2000,
+  "seconds": 30
+}

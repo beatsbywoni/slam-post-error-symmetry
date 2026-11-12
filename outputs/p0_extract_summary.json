@@ -1,0 +1,23 @@
+{
+  "en_es": {
+    "sha256": "dac4e97a03e0d35d0b417e4afb8e96a20cdd3bad933bdc590ab4b56c77531393",
+    "tokens": 2622957,
+    "exercises": 824012,
+    "users": 2593,
+    "err_rate": 0.12611262784712063
+  },
+  "es_en": {
+    "sha256": "c53079ed8053f5237225ae1b3713ecb7ecb1d0245369cd60599f17c6a6868243",
+    "tokens": 1973556,
+    "exercises": 731896,
+    "users": 2643,
+    "err_rate": 0.140595959780214
+  },
+  "fr_en": {
+    "sha256": "f34bb1518d2fbc694d6b142b78b16cb2c755df314e78a1fcb6a86b9987727c31",
+    "tokens": 926646,
+    "exercises": 326792,
+    "users": 1213,
+    "err_rate": 0.1622658490944762
+  }
+}

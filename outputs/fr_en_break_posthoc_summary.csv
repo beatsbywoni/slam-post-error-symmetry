@@ -1,0 +1,4 @@
+track,tag,analysis,quantity,n_learners,n_events,mean_pp,lo_pp,hi_pp
+fr_en,break_posthoc,break,p_break_event,1160,33444,6.118970775508137,5.753420697354516,6.475756970889275
+fr_en,break_posthoc,break,p_break_comparison,1160,33444,6.258711123447326,6.074789567134082,6.442143374098251
+fr_en,break_posthoc,break,p_break_difference,1160,33444,-0.13974034793918894,-0.4991542734908848,0.2226838679637494
